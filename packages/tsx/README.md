@@ -6,7 +6,7 @@ My ESLint config for TS React projects. It uses https://www.npmjs.com/package/@r
 ## Install
 
 ```sh
-npm i @nighttrax/eslint-config-tsx
+npm i @qedjs/eslint-config-tsx
 ```
 
 
@@ -16,7 +16,7 @@ npm i @nighttrax/eslint-config-tsx
 module.exports = {
   'root': true,
   'extends': [
-    '@nighttrax/eslint-config-tsx',
+    '@qedjs/eslint-config-tsx',
   ]
 };
 ```

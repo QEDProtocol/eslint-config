@@ -1,20 +1,20 @@
 {
-  "name": "@nighttrax/eslint-config-base",
+  "name": "@qedjs/eslint-config-base",
   "version": "10.1.0",
   "publishConfig": {
     "access": "public"
   },
-  "description": "NiGhTTraX's ESLint base config",
+  "description": "QEDProtocol's ESLint base config",
   "keywords": [
     "eslint",
     "config"
   ],
-  "author": "Andrei Picus <NiGhTTraX@users.noreply.github.com>",
+  "author": "QED Protocol <js@qed.me>",
   "license": "MIT",
   "main": "",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NiGhTTraX/eslint-config.git"
+    "url": "git+https://github.com/QEDProtocol/eslint-config.git"
   },
   "dependencies": {
     "eslint-config-airbnb-base": "~15.0.0",

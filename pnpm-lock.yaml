@@ -64,7 +64,7 @@ importers:
 
   packages/ts:
     dependencies:
-      '@nighttrax/eslint-config-base':
+      '@qedjs/eslint-config-base':
         specifier: ^10.0.0
         version: link:../base
       '@rushstack/eslint-patch':
@@ -107,10 +107,10 @@ importers:
 
   packages/tsx:
     dependencies:
-      '@nighttrax/eslint-config-base':
+      '@qedjs/eslint-config-base':
         specifier: ^10.0.0
         version: link:../base
-      '@nighttrax/eslint-config-react':
+      '@qedjs/eslint-config-react':
         specifier: ^9.0.0
         version: link:../react
       '@rushstack/eslint-patch':
